@@ -7,9 +7,9 @@
 
 ## About Me
 
-I'm a passionate Frontend Developer focused on building scalable and efficient web applications. My expertise spans across frontend technologies, with a particular interest in system design and architecture.
+I'm a passionate Full Staack Developer focused on building scalable and efficient web applications. My expertise spans across frontend technologies, with a particular interest in system design and architecture.
 
-- 🚀 Currently exploring backend technologies and distributed systems
+- 🚀 Currently exploring cloud technologies and distributed systems
 - 💡 Eager to collaborate on innovative Full Stack projects
 - 🎯 Focused on building scalable system designs and high-performance applications
 - 📚 Constantly learning and adapting to new technologies
@@ -31,10 +31,17 @@ I'm a passionate Frontend Developer focused on building scalable and efficient w
   </a>
 </p>
 
+### Backend and Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,,nestjs" alt="Backend and Databases"/>
+  </a>
+</p>
+
 ### Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" alt="Development Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman,sublime" alt="Development Tools"/>
   </a>
 </p>
 
