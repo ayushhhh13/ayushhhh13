@@ -34,7 +34,7 @@ I'm a passionate Full Staack Developer focused on building scalable and efficien
 ### Backend and Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,,nestjs" alt="Backend and Databases"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,nestjs" alt="Backend and Databases"/>
   </a>
 </p>
 
