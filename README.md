@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate Full Staack Developer focused on building scalable and efficient web applications. My expertise spans across frontend technologies, with a particular interest in system design and architecture.
+I'm a passionate Full Stack Developer focused on building scalable and efficient web applications. My expertise spans across frontend technologies, with a particular interest in system design and architecture.
 
 - 🚀 Currently exploring cloud technologies and distributed systems
 - 💡 Eager to collaborate on innovative Full Stack projects
